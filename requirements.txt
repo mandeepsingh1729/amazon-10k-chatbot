@@ -1,0 +1,15 @@
+langchain-core==0.1.46
+langchain==0.1.5
+langchain-community==0.0.19
+langchain-openai==0.0.5
+langchain-text-splitters==0.0.1
+sentence-transformers
+openai==1.14.0
+chromadb==0.4.22
+pypdf
+tiktoken
+python-dotenv
+pandas
+numpy>=1.26.0
+streamlit==1.29.0
+watchdog==3.0.0
